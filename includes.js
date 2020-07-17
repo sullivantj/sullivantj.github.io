@@ -1,0 +1,9 @@
+$(function(){
+  $("#asideIncludedContent").load("./aside.html"); 
+});
+$(function(){
+  $("#footerIncludedContent").load("./footer.html"); 
+});
+$(function(){
+  $("#headerIncludedContent").load("./header.html"); 
+});
